@@ -20,13 +20,13 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: ehs6599@gmail.com
+      link: mailto:ehs6599@gmail.com
 
   follow:
 
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/hyeseoneom
     - name: tistory
       link: https://dev-shan.tistory.com/
 
