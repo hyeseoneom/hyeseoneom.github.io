@@ -24,11 +24,10 @@ footer:
       link: mailto:ehs6599@gmail.com
 
   follow:
-
     - name: GitHub
       link: http://github.com/hyeseoneom
     - name: tistory
-      link: https://dev-shan.tistory.com/
+      link: http://dev-shan.tistory.com
 
 # Build settings
 markdown: kramdown
