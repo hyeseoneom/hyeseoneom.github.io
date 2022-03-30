@@ -23,7 +23,7 @@ SKILL<br>
 </p>
 
 <p>
-Project
-  -
+Project<br>
+  -<br>
   -
 </p>
