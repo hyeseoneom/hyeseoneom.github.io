@@ -13,7 +13,7 @@ springboot 프레임워크를 통해 팀 프로젝트를 완성했으며 로그�
 </p>
 
 <p>
-SKILL
+SKILL<br>
 :small_orange_diamond: JAVA
 :small_blue_diamond: SpringBoot
 :small_orange_diamond: Python
