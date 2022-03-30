@@ -35,7 +35,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
-  
+  - jemoji
 # Excluded items
 exclude:
   - .sass-cache/
