@@ -16,7 +16,7 @@ profile_picture:
 SKILL<br>
 :small_orange_diamond: JAVA
 :small_blue_diamond: SpringBoot
-:small_orange_diamond: Python
+:small_orange_diamond: Python<br>
 :small_blue_diamond: Django
 :small_orange_diamond: CSS
 :small_blue_diamond: Oracle
@@ -24,6 +24,6 @@ SKILL<br>
 
 <p>
 Project<br>
-  -혼사모 (혼자사는사람들의모임) : 1인가구 증가에 따른 소비 부담감을 해소하기 위해 제작<br>
+  -혼사모 (혼자사는사람들의모임)<br> 1인가구 증가에 따른 소비 부담감을 해소하기 위해 제작<br>
   -
 </p>
