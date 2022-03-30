@@ -3,7 +3,7 @@ layout: home
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
----이름
+---
 
 <p>
 "안녕하세요. 새로운것을 두려워하지않고 도전하는 신입 개발자가 되고 싶은 엄혜선 입니다"
