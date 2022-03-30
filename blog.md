@@ -1,7 +1,7 @@
 ---
-layout: Intro
-title: Intro
-slug: /Intro
+layout: Blog
+title: Blog
+slug: /Blog
 ---
 
 "도전하는 개발자 엄혜선 입니다"<br>
