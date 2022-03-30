@@ -13,7 +13,7 @@ profile_picture:
 </p>
 
 <p>
-SKILL2<br>
+SKILL<br>
 :small_orange_diamond: JAVA
 :small_blue_diamond: SpringBoot
 :small_orange_diamond: Python
