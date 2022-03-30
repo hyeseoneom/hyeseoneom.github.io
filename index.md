@@ -14,5 +14,5 @@ springboot 프레임워크를 통해 팀 프로젝트를 완성했으며 로그�
 
 <p>
 SKILL
-
+:small_orange_diamond:JAVA
 </p>
